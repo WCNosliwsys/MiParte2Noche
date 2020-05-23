@@ -15,7 +15,8 @@
         android:id="@+id/edtnombre"
         android:hint="Ingresa tu nombre"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content" />
+        android:layout_height="wrap_content"
+        android:tag="1"/>
     <EditText
         android:id="@+id/edtedad"
         android:hint="Ingresa tu edad"
